@@ -81,6 +81,10 @@ gcc calculator.c -o calculator -lm
 
 ## 📸 Sample Screenshots
 
+![Simple Menu Screenshot](assets/Simple.png)
+![Advance Menu Screenshot](assets/Advance.png)
+
+
 ### Main Menu Interface
 ```
                 ----------------------- 
