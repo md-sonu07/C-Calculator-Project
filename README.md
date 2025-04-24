@@ -81,8 +81,7 @@ gcc calculator.c -o calculator -lm
 
 ## 📸 Sample Screenshots
 
-![Simple Menu Screenshot](assets/Simple.png)
-![Advance Menu Screenshot](assets/Advance.png)
+<div align="center"> <img src="assets/Simple.png" alt="Simple Calculator Menu" width="45%" style="margin-right: 10px;" /> <img src="assets/Advance.png" alt="Advanced Calculator Menu" width="45%" /> </div>
 
 
 ### Main Menu Interface
