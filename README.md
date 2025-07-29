@@ -73,8 +73,11 @@ gcc calculator.c -o calculator -lm
 📁 C-Calculator-Project/
 │
 ├── calculator.c        # Core calculator source code
+├── calculator.exe      # Compiled executable file (Windows)
+├── color.h             # Color macros/header for UI styling, bg color, text color
 ├── README.md           # Project documentation
-└── assets/             # Screenshots
+└── assets/             # Screenshots or related media
+
 ```
 
 ---
