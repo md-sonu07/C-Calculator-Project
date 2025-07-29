@@ -7,7 +7,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Programming Logo" width="80">
 </p>
 
-
+---
 Welcome to the **C Terminal-Based Calculator Project**, a comprehensive menu-driven application developed in the **C programming language**. This calculator not only supports **basic arithmetic** but also includes a full suite of **advanced mathematical operations**, **history tracking**, and **modular menus** for smooth user experience.
 
 ---
@@ -53,9 +53,6 @@ After every operation, the user can choose to:
 - Go back to the main menu
 - View calculation history
 - Exit the program
-
----
-
 
 ---
 
