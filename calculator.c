@@ -161,8 +161,8 @@ int advanceMenu(){
 	printf("\n\t7. Compound Interest");
     printf("\n\t8. Area Calculations\n");
     printf("\n\t9. View History");
-    printf("\n\t10. Exit ");
-    printf("\n\nChoose Any Operation (1 to 10): ");
+    printf("\n\t9. Exit ");
+    printf("\n\nChoose Any Operation (0 to 9): ");
     
     scanf(" %c", &ch3);
     
@@ -176,9 +176,9 @@ int advanceMenu(){
         case '7': cInterest(); break;
         case '8': area(); break;
         case '9': PHistory(); break;
-        case '10': exitPro(); break;
+        case '0': exitPro(); break;
         default: 
-            printf("\nInvalid number. Please enter between 1 to 10.");
+            printf("\nInvalid number. Please enter between 0 to 9.");
             holdScreen();
             menuPage(); 
             break;
@@ -848,4 +848,5 @@ int color() {
 
     return 0;
 }
+
 
